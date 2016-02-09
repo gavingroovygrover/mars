@@ -29,7 +29,7 @@ Jan:22, Feb:16, Mar:16, Apr:19, May:20, Jun:21, Jul:19, Aug:19, Sep:20, Oct:18, 
 Ari:21, Tau:21, Gem:23, Can:20, Leo:21, Vir:17, Lib:15, Sco:18, Sag:15, Cap:16, Aqu:21, Pis:22, 
 ```
 
-The shortest seasonal month names are Libra and Saggitarius, which matches winter and autumn being the shortest months on Mars. February, the shortest month on Earth, is also among the shortest Earth-month-named months on Mars.
+The least frequent seasonal month names are Libra and Saggitarius, which matches winter and autumn being the shortest months on Mars. February, the shortest month on Earth, is also among the least frequent Earth-month-named months on Mars.
 
 The full data, where a `+` after the month name denotes a 41-day month...
 
